@@ -5,10 +5,9 @@
 
 print("Hello World")
 
-#another comment
-#Adding a different comment to the file
-#// used to test resolving conflicts
-#testing commit with pycharm
+# no longer need comments
+# testing commit with pycharm
+
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
